@@ -1,0 +1,10 @@
+C:\Users\szymonxlr\source\repos\CSteganography\CSteganography\bin\Debug\CSteganography.exe.config
+C:\Users\szymonxlr\source\repos\CSteganography\CSteganography\bin\Debug\CSteganography.exe
+C:\Users\szymonxlr\source\repos\CSteganography\CSteganography\bin\Debug\CSteganography.pdb
+C:\Users\szymonxlr\source\repos\CSteganography\CSteganography\obj\Debug\CSteganography.Form1.resources
+C:\Users\szymonxlr\source\repos\CSteganography\CSteganography\obj\Debug\CSteganography.Properties.Resources.resources
+C:\Users\szymonxlr\source\repos\CSteganography\CSteganography\obj\Debug\CSteganography.csproj.GenerateResource.Cache
+C:\Users\szymonxlr\source\repos\CSteganography\CSteganography\obj\Debug\CSteganography.csproj.CoreCompileInputs.cache
+C:\Users\szymonxlr\source\repos\CSteganography\CSteganography\obj\Debug\CSteganography.exe
+C:\Users\szymonxlr\source\repos\CSteganography\CSteganography\obj\Debug\CSteganography.pdb
+C:\Users\szymonxlr\source\repos\CSteganography\CSteganography\obj\Debug\CSteganography.csprojAssemblyReference.cache
